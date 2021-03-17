@@ -1,0 +1,22 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "My personal website",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asif-03/website.git"
+  },
+  "author": "asif ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asif-03/website/issues"
+  },
+  "homepage": "https://github.com/asif-03/website#readme",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
