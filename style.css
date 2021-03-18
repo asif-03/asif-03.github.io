@@ -12,4 +12,10 @@
 
 .heading {
   font-size: 24px;
+  padding: 60px;
+  text-align: end;
+  background: #c0b412;
+  /*  #1abc9c  */
+  color: #f35858c7;
+  font-size: 30px;
 }
